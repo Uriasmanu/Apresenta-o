@@ -1,4 +1,5 @@
-#Bem-vindo(a) à minha página do GitHub!
+# Bem-vindo(a) à minha página do GitHub!
+
 Meu nome é Manoela e sou uma entusiasta de desenvolvimento web, com habilidades em HTML, CSS e JavaScript. Meu objetivo é me tornar uma desenvolvedora front-end e criar experiências incríveis para os usuários na web.
 
 Eu sou apaixonado(a) por aprender e experimentar novas tecnologias para melhorar minhas habilidades e conhecimentos em desenvolvimento web. Este repositório contém alguns dos meus projetos, onde você pode conferir minhas habilidades em ação.
